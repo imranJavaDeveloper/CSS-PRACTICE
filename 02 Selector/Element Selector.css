@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    font-style: italic;
+}
+h2{
+    color: green;
+    font-style: normal;
+}
+p{
+    font-size: larger;
+    color: rgb(179, 21, 182);
+}
+body{
+    color: azure;
+}
