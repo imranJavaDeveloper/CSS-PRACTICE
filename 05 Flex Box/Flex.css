@@ -12,7 +12,7 @@
 
 h1{
     display: inline-block;
-    background-color: orange;
+    background-color: rgb(255, 89, 0);
     font-family: 'Times New Roman', Times, serif;
     border-radius: 6px;
 }
