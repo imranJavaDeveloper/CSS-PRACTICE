@@ -1,0 +1,202 @@
+
+.contain{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    margin-left: 30px;
+    
+    
+}
+
+.contain2{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+    
+    
+}
+.circle1{
+    display: inline-block;
+    text-align: center;
+
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bold;
+     padding-top: 50px;
+
+    height: 150px;
+    width: 400px;
+    border-radius: 50px;
+    background-color: rgb(24, 22, 22);
+    color:white;
+    border: solid 8px red
+}
+
+.circle2{
+    display: inline-block;
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bold;
+    padding-top: 30px;
+    margin-top: 30px;
+    height: 50px;
+    width: 400px;
+    border-radius: 50px;
+    background-color: rgb(37, 35, 35);
+    color: white;
+    border: solid 8px red
+    
+}
+
+.circle3{
+    display: inline-block;
+    text-align: center;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bolder;
+    padding-top: 30px;
+    margin-top: 30px;
+    height: 150px;
+    width: 400px;
+    border-radius: 50px;
+    background-color: rgb(45, 39, 39);
+    color: white;
+    border: solid 8px red
+    
+}
+
+.first_box{
+    margin-left: 100px;
+    display: inline;
+    text-align: center;
+    height: 700px;
+    width: 500px;
+    border: 8px dashed red;
+    color: red;
+}
+h3{
+    font-size: x-large;
+    font-weight: bold;
+    
+}
+.box2{
+    margin: top 20px;
+}
+
+.circle{
+    text-align: center;
+    font-size: large;
+    text-decoration: underline;
+    height: 400px;
+    width: 400px;
+    border: solid 5px gray;
+    border-radius: 50%;
+    color: white;
+    background-color: rgb(59, 147, 91);
+}
+h5{
+    font-style: italic;
+    font-weight: 300;
+    font-size: larger;
+}
+.menu{
+    margin-left: 30%;
+    display: flex;
+   justify-content: center;
+   padding-top: 30px;
+    border: 5px solid red;
+    background-color: black;
+    color: white;
+    font-style: italic;
+    font-size: xx-large;
+    font-weight: bold;
+    height: 100px;
+    width: 500px;
+    border-radius: 40px;
+}
+
+.select_item1{
+    display: flex;
+    
+    justify-content: space-evenly;
+}
+
+.Starters{
+    display: flex;
+    display: inline-block;
+    height: 300px;
+    width: 400px;
+    border: solid 2px black;
+    border-radius: 30px;
+    background-color: rgb(97, 237, 255);
+    
+}
+
+.South_Indian{
+    display: flex;
+    display: inline-block;
+    height: 300px;
+    width: 400px;
+    border: solid 2px black;
+    border-radius: 30px;
+    background-color: rgb(97, 237, 255);
+    
+    
+   
+}
+.Indian_Kitchen{
+    display: flex;
+    display: inline-block;
+    height: 300px;
+    width: 400px;
+    border: solid 2px black;
+    border-radius: 30px;
+    background-color: rgb(97, 237, 255);
+    
+    
+    
+}
+.Rice_Salad{
+    display: flex;
+    display: inline-block;
+    height: 300px;
+    width: 400px;
+    border: solid 2px black;
+    border-radius: 30px;
+    background-color: rgb(97, 237, 255);
+    
+    
+}
+
+.Tandoori_Bread{
+    display: flex;
+    display: inline-block;
+    height: 300px;
+    width: 400px;
+    border: solid 2px black;
+    border-radius: 30px;
+    background-color: rgb(97, 237, 255);
+    
+
+
+}
+
+.Beverages{
+    display: flex;
+    display: inline-block;
+    height: 300px;
+    width: 400px;
+    border: solid 2px black;
+    border-radius: 30px;
+    background-color: rgb(97, 237, 255);
+    
+
+}
+
+body{
+    border: 5px solid rgb(232, 243, 242);
+    background-image: url(./LightBulding.jpg);
+    background-size: cover;
+    
+}
