@@ -1,0 +1,159 @@
+
+body{
+    background-color: rgba(110, 115, 116, 0.361);
+}
+.hbox{
+    margin-left: 500px;
+    height: 150px;
+    width: 500px;
+    font-style: italic;
+    font-weight: 900;
+    font-size: x-large;
+    border: 5px solid red;
+    
+    border-radius: 15px;
+     color: rgb(176, 29, 142);
+    background-color:rgb(255, 255, 255)
+    
+}
+
+
+.big_container{
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.container{
+    display: inline-block;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.box1{
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    height: 300px;
+    width: 250px;
+    border: 3px solid red;
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+    background-color: aliceblue;
+    padding-left: 20px;
+    color: rgb(147, 11, 129);
+}
+
+.box2{
+
+    display: inline-block;
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+    width: 300px;
+    border: 3px solid red;
+    padding-top: 80px;
+    background-color: aliceblue;
+
+}
+.box3{
+     display: inline-block;
+    border: 3px solid red;
+    width: 250px;
+    height: 300px;
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+    background-color: aliceblue;
+    padding-left: 20px;
+    color: rgb(147, 11, 129);
+}
+
+.box4{
+    display: inline-block;
+    height: 300px;
+    width: 280px;
+    border: 3px solid red;
+    font-size: x-large;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    background-color: aliceblue;
+    padding-left: 20px;
+    color: rgb(147, 11, 129);
+}
+
+hr{
+    color: greenyellow;
+    background-color: greenyellow;
+}
+
+.store{
+    display: flex;
+    border: 5px solid blueviolet;
+    height: 1000px;
+    width: 800px;
+    background-color: green;
+}
+
+
+.footer{
+    width: 60%;
+    border: 8px solid blueviolet;
+    margin: 10px auto;
+    background-color: green;
+    
+   }
+   #heading{
+    text-align: center;
+   }
+   .fruits{
+    background-color: yellow;
+    padding: 0px 25px 20px 20px;
+    font-style: italic;
+    width: 380px;
+    
+   }
+   .vegetables{
+    background-color: yellow;
+    padding: 0px 25px 20px 20px;
+    font-style: italic;
+    width: 380px;
+   }
+    .mystore{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+   }
+   .otheritem{
+    background-color: yellow;
+    margin: 10px 15px 50px 15px;
+    font-style: italic;
+   padding-bottom: 3px;
+   text-align: center;
+   
+   }
+   .footerfix{
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 550px;
+    left: 460px;
+   }
+   .offer{
+    background-color: green;
+    width: 500px;
+    display: flex;
+    border: 8px solid red;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px purple;
+    justify-content: space-around;
+    align-items: center;
+   }
+   
+  
+
